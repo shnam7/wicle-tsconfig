@@ -1,0 +1,30 @@
+{
+    "name": "@wicle/tsconfig",
+    "version": "0.1.0",
+    "files": [
+        "*.json"
+    ],
+    "scripts": {
+        "npm-dry-run": "npm publish --dry-run"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shnam7/wicle-tsconfig"
+    },
+    "homepage": "https://github.com/shnam7/wicle-tsconfig#readme",
+    "bugs": {
+        "url": "https://github.com/shnam7/wicle-tsconfig/issues"
+    },
+    "author": {
+        "name": "Robin Nam",
+        "email": "shnam7@gmail.com"
+    },
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
+    "keywords": [
+        "typescript",
+        "tsconfig"
+    ]
+}

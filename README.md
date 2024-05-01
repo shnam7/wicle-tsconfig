@@ -1,0 +1,3 @@
+# @wicle/tsconfig
+
+Typescript Configurations
